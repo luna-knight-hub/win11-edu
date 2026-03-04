@@ -1,0 +1,5 @@
+{
+  "name": "Win11 EduSimple",
+  "description": "A Windows 11 simulation for educational purposes, featuring a virtual file system, basic apps, and task-based learning modules.",
+  "requestFramePermissions": []
+}
